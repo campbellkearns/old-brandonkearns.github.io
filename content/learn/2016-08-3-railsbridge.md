@@ -1,9 +1,14 @@
 ---
 layout: post
 title: RailsBridge
+cover: ""
+date: "08/03/2016"
+category: "learn"
+tags:
+    -
 ---
 
-It had been a long time since I had done any Rails in my career. My friend, [Raven](https://twitter.com/_raven_io), one of the organizers of RailsBridge Atlanta, asked me if I’d be willing to be a coach. 
+It had been a long time since I had done any Rails in my career. My friend, [Raven](https://twitter.com/_raven_io), one of the organizers of RailsBridge Atlanta, asked me if I’d be willing to be a coach.
 
 Of course, I said yes.
 
@@ -11,7 +16,7 @@ I am quite passionate about helping to fix the PR issue that the tech industry h
 
 As far as I see it, curiosity and perseverance seem to be among the biggest boons to whatever success I have had in tech thus far. It is difficult to persevere without support. And this is why I was so excited to be a coach at the second RailsGirls Atlanta RailsBridge session. Initially, I was concerned that my Rails knowledge might have escaped me but then I thought about the more important bit: the students do not need me to know everything - they need support and affirmation that despite, perhaps, running into some technical difficulties, this is an industry in which they can succeed if they so choose. I cannot speak highly enough of the [RailsBridge](http://www.railsbridge.org/about) philosophy and of [RailsGirls](http://railsgirls.com/atl) Atlanta. This was my first time attending an event held by either organization. The day started with a wonderful breakfast before we got into the curriculum. The goal was to get the students to create their first web app - a feeling that I still remember. It was quite inspiring to see, over the course of a day, the progression of someone’s knowledge. Something that I think is taken for granted in learning a completely new skill is the starting point and everything it took to get there.
 
-You know how they say showing up is a large percentage of getting something done? That’s so true. It’s also the easiest part. So, any steps taken after that are huge victories compared the alternative of still wishing you had done it. 
+You know how they say showing up is a large percentage of getting something done? That’s so true. It’s also the easiest part. So, any steps taken after that are huge victories compared the alternative of still wishing you had done it.
 
 Here's a picture of some women who no longer have to wish they had gotten it done:
 

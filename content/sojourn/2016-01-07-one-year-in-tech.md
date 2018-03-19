@@ -1,7 +1,11 @@
 ---
 layout: post
 title: One Year in Tech
-categories: tech
+cover: ""
+date: "01/07/2016"
+category: "sojourn"
+tags:
+    -
 ---
 
 One year ago, I enrolled in a web development immersive course at [General Assembly][general-assembly].
@@ -30,15 +34,15 @@ This lesson could not have come at a better time for me and I think it is someth
 ### Being nice matters!
 
 I remember going to my first meet-up and being <del>a little turned off</del> disgusted by how smug one particular brogrammer was about my having just gotten into the industry.
-        
+
 Having picked up on his vibe (and likely in an attempt to let homeboy save face) one of my instructors asked him, "So do you have any advice for these guys just getting into the industry?"
-        
+
 "I mean, I've been programming since I was 10, so," Neckbeard replied, "I don't really know what to tell you."
-        
+
 *Oh, nice! Let me just rollback to 1998 really quick - I'm sure you coded a sick RubyGem for time travel by the time you got your learner's permit*, I thought to myself. Honestly, though, I was fairly discouraged as this was my very first meet-up!
-        
+
 The reason I am pointing out this exchange is because this dude has been the rare exception to my overall positive experience in the tech industry. For someone changing careers, it is important to be surrounded by encouraging voices and people secure enough to not be threatened by new faces eager to affect positive change in the industry.
-        
+
 ***Don't get caught being smug to a newbie.***
 
 I could absolutely go on about why I love being a part of the tech industry but I'd like to hear from you.

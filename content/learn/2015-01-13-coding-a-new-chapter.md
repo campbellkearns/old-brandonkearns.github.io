@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Coding a New Chapter
+cover: ""
+date: "01/13/2015"
+category: "learn"
+tags:
+    -
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H14bBuluwB8" frameborder="0" allowfullscreen></iframe>
