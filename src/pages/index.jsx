@@ -11,6 +11,11 @@ class Index extends React.Component {
       <div className="index-container">
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
+        <section>
+          brandonkearns.com is currently being converted to a Gatsby site - at the same time, I am learning how to use Gatsby, so keep checking back.
+
+          Blog posts will still be here, don't worry.
+        </section>
         <PostListing postEdges={postEdges} />
       </div>
     );
