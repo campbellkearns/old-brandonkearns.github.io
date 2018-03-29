@@ -1,0 +1,2 @@
+webpackJsonp([0xd184fd24a5b],{336:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/one-year-in-tech"},excerpt:"One year ago, I enrolled in a web development immersive course at  General Assembly . I can say that making this career shift was among the…",timeToRead:3,frontmatter:{title:"One Year in Tech",tags:["journey"],cover:"",date:"01/07/2016"}}}]}},pathContext:{category:"sojourn"}}}});
+//# sourceMappingURL=path---categories-sojourn-7dc518906f400443d163.js.map
