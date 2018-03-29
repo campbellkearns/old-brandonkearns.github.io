@@ -65,6 +65,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
         const tagSet = new Set();
         const categorySet = new Set();
+
         result.data.allMarkdownRemark.edges.forEach(edge => {
           if (edge.node.frontmatter.tags) {
             edge.node.frontmatter.tags.forEach(tag => {
@@ -86,15 +87,17 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         });
 
         const tagList = Array.from(tagSet);
-        tagList.forEach(tag => {
-          createPage({
-            path: `/tags/${_.kebabCase(tag)}/`,
-            component: tagPage,
-            context: {
-              tag
-            }
+        if (tagList.length > 0) {
+          tagList.forEach(tag => {
+            createPage({
+              path: `/tags/${_.kebabCase(tag)}/`,
+              component: tagPage,
+              context: {
+                tag
+              }
+            });
           });
-        });
+        }
 
         const categoryList = Array.from(categorySet);
         categoryList.forEach(category => {

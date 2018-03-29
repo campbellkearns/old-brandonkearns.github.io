@@ -3,7 +3,7 @@ module.exports = {
   siteTitle: "Brandon Kearns", // Site title.
   siteTitleAlt: "Brandon Kearns - learn, earn, sojourn. repeat.", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://brandonkearns.github.io", // Domain of your website without pathPrefix.
+  siteUrl: "https://www.brandonkearns.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "brandonkearns.com - learn, earn, sojourn. repeat.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.

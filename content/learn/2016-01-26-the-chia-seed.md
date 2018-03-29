@@ -1,9 +1,11 @@
 ---
+layout: post
 title: Chia Seed
 cover: ""
 date: "01/26/2016"
-category: "learn"
-tags: ""
+category: "repeat"
+tags:
+  - "writing"
 ---
 
 What can we learn from the chia seed?

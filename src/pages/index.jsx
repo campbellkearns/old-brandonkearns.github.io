@@ -14,7 +14,7 @@ class Index extends React.Component {
         <section>
           brandonkearns.com is currently being converted to a Gatsby site - at the same time, I am learning how to use Gatsby, so keep checking back.
 
-          Blog posts will still be here, don't worry.
+          Blog posts will still be here, don't worry. Stay tuned.
         </section>
         <PostListing postEdges={postEdges} />
       </div>
