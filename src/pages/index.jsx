@@ -1,6 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 import PostListing from "../components/PostListing/PostListing";
+import Footer from "../components/Footer/Footer"
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 
@@ -12,11 +13,11 @@ class Index extends React.Component {
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
         <section>
-          brandonkearns.com is currently being converted to a Gatsby site - at the same time, I am learning how to use Gatsby, so keep checking back.
 
-          Blog posts will still be here, don't worry. Stay tuned.
         </section>
         <PostListing postEdges={postEdges} />
+
+        <Footer config={config} />
       </div>
     );
   }
