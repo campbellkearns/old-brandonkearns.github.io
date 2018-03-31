@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import Link from "gatsby-link";
 import PostListing from "../components/PostListing/PostListing";
 import Footer from "../components/Footer/Footer"
 import SEO from "../components/SEO/SEO";
@@ -12,11 +13,23 @@ class Index extends React.Component {
       <div className="index-container">
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
-        <section>
-
-        </section>
-        <PostListing postEdges={postEdges} />
-
+        <header>
+          <section>about</section>
+          <section>contact</section>
+        </header>
+        <main>
+          <section>I am Brandon Kearns</section>
+          <section>
+            <ul>
+              <li>earn</li>
+              <li>learn</li>
+              <li>sojourn</li>
+            </ul>
+          </section>
+          <Link to="/chia-seed">
+            the chia seed
+          </Link>
+        </main>
         <Footer config={config} />
       </div>
     );
