@@ -8,7 +8,6 @@
 
 # Gatsby Advanced Starter
 
-A blog starter skeleton with advanced features for [Gatsby](https://github.com/gatsbyjs/gatsby/).
 
 ## Why?
 
